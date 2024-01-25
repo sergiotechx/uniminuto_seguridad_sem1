@@ -13,4 +13,4 @@ En caso de una sesión erronea, hay una respuesta 500
 **Libreria:** cryptr  
 **Código de la Liberia:** https://github.com/MauriceButler/cryptr
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/9947433d9e23e051805df25db47931cbd6416636200eebcf.png)
+![](https://raw.githubusercontent.com/sergiotechx/uniminuto_seguridad_sem1/main/postman2.png)
