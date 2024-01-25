@@ -30,4 +30,4 @@ Cuerpo del api rest:
 
 ![](https://raw.githubusercontent.com/sergiotechx/uniminuto_seguridad_sem1/main/postman2.png)
 
-https://uniminuto-seguridad-sem1.vercel.app/api/login
+
